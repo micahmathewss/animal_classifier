@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0;
+  background-color: black;
+  color: white;
+}
+
+.outer-container {
+  text-align: center;
+  width: 60%;
+  margin: 0 auto; /* Center horizontally */
+}
+
+.predict {
+  margin-top: 20px;
+}
+
+h1, h2, p, .predict {
+  color: white;
+}
