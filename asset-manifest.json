@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/animal_classifier/static/css/main.bc000401.css",
+    "main.js": "/animal_classifier/static/js/main.63afb344.js",
+    "static/js/787.4fc4ddfc.chunk.js": "/animal_classifier/static/js/787.4fc4ddfc.chunk.js",
+    "index.html": "/animal_classifier/index.html",
+    "main.bc000401.css.map": "/animal_classifier/static/css/main.bc000401.css.map",
+    "main.63afb344.js.map": "/animal_classifier/static/js/main.63afb344.js.map",
+    "787.4fc4ddfc.chunk.js.map": "/animal_classifier/static/js/787.4fc4ddfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc000401.css",
+    "static/js/main.63afb344.js"
+  ]
+}
