@@ -1,7 +1,7 @@
 {
   "name": "animal_class_classifier",
   "version": "0.1.0",
-  "homepage": "https://github.com/micahmathewss/animal-class-classifier",
+  "homepage": "https://micahmathewss.github.io/animal-class-classifier",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

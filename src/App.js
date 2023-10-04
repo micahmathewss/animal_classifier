@@ -22,12 +22,12 @@ function App() {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    fetch('http://localhost:5000/predict', {
+    fetch('https://animal-class-classifier-35dd4f534778.herokuapp.com/predict', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify(formData),
+      body: JSON.stringify({ features: formData }),
     })
       .then((response) => response.json())
       .then((data) => {
